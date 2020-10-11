@@ -21,7 +21,7 @@ If you find this code useful, then please consider citing our work:
 ```                                                                                                                                                           
 @inproceedings{arshad2020progressive,
   title={A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds},
-  author={Arshad, Samiul and Beksi, William J},
+  author={Arshad, Mohammad Samiul and Beksi, William J},
   booktitle={International Conference on 3D Vision (3DV)},
   year={2020}
 }                                                                                                                                                             
