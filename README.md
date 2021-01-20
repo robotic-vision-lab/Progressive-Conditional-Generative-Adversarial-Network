@@ -24,6 +24,7 @@ If you find this code useful, then please consider citing our work:
   author={Arshad, Mohammad Samiul and Beksi, William J},
   booktitle={International Conference on 3D Vision (3DV)},
   year={2020},
+  pages={712--722},
   organization={IEEE}
 }                                                                                                                                                             
 ```   
