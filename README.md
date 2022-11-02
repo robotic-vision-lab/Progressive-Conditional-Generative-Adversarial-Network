@@ -68,3 +68,7 @@ PCGAN utilizes code from the following projects:
 * TreeGAN: https://github.com/seowok/TreeGAN
 
 * DGCNN: https://github.com/WangYueFt/dgcnn/tree/master/pytorch
+
+### License
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/robotic-vision-lab/Progressive-Conditional-Generative-Adversarial-Network/blob/main/LICENSE)
