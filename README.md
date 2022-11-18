@@ -7,7 +7,7 @@ intention of facilitating the learning of non-Euclidean point representations.
 In three dimensions, synthetic data may take the form of meshes, voxels, or raw
 point clouds in order to learn a representation that facilitates the solution
 of computer vision tasks such as classification, segmentation, and
-reconstruction Automatically synthesizing 3D point clouds can aid many
+reconstruction. Automatically synthesizing 3D point clouds can aid many
 real-world applications by providing a source of potentially infinite amounts
 of diverse data.
 
