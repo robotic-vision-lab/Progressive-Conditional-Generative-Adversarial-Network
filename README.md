@@ -4,11 +4,11 @@
 
 Generating synthetic 3D point cloud data is an open area of research with the
 intention of facilitating the learning of non-Euclidean point representations.
-In three dimensions, synthetic data may take the form of meshes, voxels, or raw
-point clouds in order to learn a representation that facilitates the solution
-of computer vision tasks such as classification, segmentation, and
-reconstruction. Automatically synthesizing 3D point clouds can provide a source
-of potentially infinite amounts of diverse data.
+In 3D, synthetic data may take the form of meshes, voxels, or raw point clouds
+in order to learn a representation that enables the solution of computer vision
+tasks such as classification, segmentation, and reconstruction. Automatically
+synthesizing 3D point clouds can provide a source of potentially infinite
+amounts of diverse data.
 
 <p align="center">
 <img src='./misc/pcgan_overview.png'>
