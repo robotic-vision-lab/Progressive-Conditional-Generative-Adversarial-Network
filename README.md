@@ -1,14 +1,14 @@
 ## Progressive Conditional Generative Adversarial Network
 
 ### Overview
-
-Generating synthetic 3D point cloud data is an open area of research with the
-intention of facilitating the learning of non-Euclidean point representations.
-In 3D, synthetic data may take the form of meshes, voxels, or raw point clouds
-in order to learn a representation that enables the solution of computer vision
-tasks such as classification, segmentation, and reconstruction. Automatically
-synthesizing 3D point clouds can provide a source of potentially infinite
-amounts of diverse data.
+Synthesizing 3D point cloud data is an open area of research with the the
+potential to provide a source of infinite amounts of diverse data.  In 3D,
+synthetic data may take the form of meshes, voxels, or raw point clouds in
+order to learn a representation that enables the solution of computer vision
+tasks such as classification, segmentation, and reconstruction. Although color
+and geometry are among the defining features of 3D objects in the physical
+world, current point cloud generation methods either create the geometry or the
+color of the point cloud, but not both.
 
 <p align="center">
 <img src='./misc/pcgan_overview.png'>
@@ -61,9 +61,9 @@ The code has been tested with Python 3.6, PyTorch 1.3.1, and CUDA 9.2 on Ubuntu
 
 ### Dataset
 
-We use the [ShapeNetCore](https://www.shapenet.org/) dataset for our 3D models. 
-First, download and unzip the 3D models for the appropriate class (e.g., chair) 
-in the indexed directory:
+We use the [ShapeNetCore](https://www.shapenet.org/) dataset as the source of
+our 3D models. First, download and unzip the 3D models for the appropriate
+class (e.g., chair) in the indexed directory:
 
       ./datasets/shapenet/mesh/[class-id]
 
