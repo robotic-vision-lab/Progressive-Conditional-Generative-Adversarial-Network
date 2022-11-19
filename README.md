@@ -1,14 +1,14 @@
 ## Progressive Conditional Generative Adversarial Network
 
 ### Overview
-Synthesizing 3D point cloud data is an open area of research with the the
-potential to provide a source of infinite amounts of diverse data.  In 3D,
-synthetic data may take the form of meshes, voxels, or raw point clouds in
-order to learn a representation that enables the solution of computer vision
-tasks such as classification, segmentation, and reconstruction. Although color
-and geometry are among the defining features of 3D objects in the physical
-world, current point cloud generation methods either create the geometry or the
-color of the point cloud, but not both.
+Synthesizing 3D point cloud data is an open area of research with the potential
+to provide a source of infinite amounts of diverse data. In 3D, synthetic data
+may take the form of meshes, voxels, or raw point clouds in order to learn a
+representation that enables the solution of computer vision tasks such as
+classification, segmentation, and reconstruction. Although color and geometry
+are among the defining features of 3D objects in the physical world, current
+point cloud generation methods either create the geometry or the color of the
+point cloud, but not both.
 
 <p align="center">
 <img src='./misc/pcgan_overview.png'>
