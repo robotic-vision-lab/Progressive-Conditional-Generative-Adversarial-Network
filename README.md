@@ -11,7 +11,7 @@ point cloud generation methods either create the geometry or the color of the
 point cloud, but not both.
 
 <p align="center">
-<img src='./misc/pcgan_overview.png'>
+  <img src="./misc/pcgan_overview.png" alt="pcgan overview"/>
 </p>
 
 This repository provides source code for our 2020 3DV paper titled "[A
@@ -45,7 +45,7 @@ If you find this project useful, then please consider citing our work.
 ### Model Architecture
 
 <p align="center">
-<img src="./misc/pcgan_model.png" alt="pcgan_model"/>
+  <img src="./misc/pcgan_model.png" alt="pcgan model"/>
 </p>
 
 ### Installation Dependencies
